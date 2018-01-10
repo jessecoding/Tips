@@ -10,7 +10,7 @@
 
     * brew install cocoapods
 
-    * gem install cocoapods
+    * gem install cocoapods
 
 3. CocoaPods 使用
 
