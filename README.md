@@ -2,10 +2,10 @@
 
 ## 主要记录下自己平时涉及的知识点，便于自己后期查阅
 
-- [iOS](./iOS.md)
+- [iOS](./iOS/iOS.md)
 
-- [Android](./Android.md)
+- [Android](./Android/Android.md)
 
-- [iPhone](./iPhone.md)
+- [iPhone](./iPhone/iPhone.md)
 
-- [macOSX](./macOSX.md)
+- [macOSX](./macOSX/macOSX.md)

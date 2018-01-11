@@ -1,5 +1,11 @@
 # iOS
 
+## 开发语言
+
+- Objective C
+
+- Swift
+
 ## 依赖管理
 
 1. [Cocoapods](./Cocoapods.md)
